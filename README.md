@@ -9,5 +9,4 @@ This repository contains my web development portfolio for course **BA0013L**.
 - `index.html` - Primary HTML page
 - `css/` - Custom CSS stylesheets
 - `js/` - JavaScript dynamic scripts
-- `assets/` - Image and media assets
 - `README.md` - Documentation
